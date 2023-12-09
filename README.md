@@ -1,8 +1,10 @@
 ![My Github Banner](/assets/images/github-banner.png "My Github Banner")
+ 
+ ***
+ 
+ ## 📩 Connect with me 
 
-
-
-### Hi there 👋
+[<p align="center"><img height="75" src="assets/contact-icons/linkedin.png">](https://www.linkedin.com/in/enamahmedshahaz/) [<img height="75" src="assets/contact-icons/facebook.png">](https://www.facebook.com/enamahmedshahaz) [<img height="75" src="assets/contact-icons/twitter.png"></p>](https://twitter.com/enamahmedshahaz)
 
 
 Here are some ideas to get you started:
