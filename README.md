@@ -1,4 +1,4 @@
-![My Github Banner](/assets/images/banner.png "My Github Banner")
+![My Github Banner](/assets/images/banner.jpg "My Github Banner")
  
 
 
