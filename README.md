@@ -1,7 +1,9 @@
+![My Github Banner](/assets/images/github-banner.png "My Github Banner")
+
+
+
 ### Hi there 👋
 
-<!--
-**enamahmedshahaz/enamahmedshahaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
