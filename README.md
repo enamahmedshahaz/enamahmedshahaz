@@ -21,7 +21,7 @@
  
  ## 📩 Reach me by
 
-[<p align="center"><img height="60" src="assets/contact-icons/linkedin.png">](https://www.linkedin.com/in/enamahmedshahaz/) [<img height="60" src="assets/contact-icons/facebook.png">](https://www.facebook.com/enamahmedshahaz) [<img height="60" src="assets/contact-icons/twitter.png"></p>](https://twitter.com/enamahmedshahaz)
+[<p align="center"><img height="40" src="assets/contact-icons/linkedin.png">](https://www.linkedin.com/in/enamahmedshahaz/) [<img height="40" src="assets/contact-icons/facebook.png">](https://www.facebook.com/enamahmedshahaz) [<img height="40" src="assets/contact-icons/twitter.png"></p>](https://twitter.com/enamahmedshahaz)
 <br>
 
 
